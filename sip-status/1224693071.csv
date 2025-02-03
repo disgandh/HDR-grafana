@@ -1,0 +1,4 @@
+TimeStamp,Sessions,Subscriptions,Dialogs,CallID Maps,Rejections,ReINVITEs,Media Sessions,Media Pending,Client Trans,Server Trans,Resp Contexts,Saved Contexts,Sockets,Req Drops,DNS Trans,DNS Sockets,DNS Results,Session Rate,Load Rate
+1224693071,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0.0,1.8
+1224693371,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0.0,2.0
+1224693671,11,0,20,22,0,0,14,0,44,65,42,0,3,0,0,1,0,0.0,2.0

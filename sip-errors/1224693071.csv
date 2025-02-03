@@ -1,0 +1,4 @@
+TimeStamp,SDP Offer Errors,SDP Answer Errors,Drop Media Errors,Transaction Errors,Application Errors,Media Exp Events,Early Media Exps,Exp Media Drops,Expired Sessions,Multiple OK Drops,Multiple OK Terms,Media Failure Drops,Non-ACK 2xx Drops,Invalid Requests,Invalid Responses,Invalid Messages,CAC Session Drops,CAC BW Drops
+1224693071,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1224693371,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1224693671,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

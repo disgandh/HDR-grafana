@@ -1,0 +1,4 @@
+TimeStamp,Local Lookup,Local Hits,Local Misses,Local Drops,Agent Group Hits,Agent Group Misses,No Routes Found,Missing Dialog,Inb SA Constraints,Outb SA Constraints,Inb REG SA Constraints,Outb REG SA Constraints,Requests Challenged,Challenges Found,Challenges Not Found,Challenge Drops
+1224693071,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1224693371,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1224693671,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0

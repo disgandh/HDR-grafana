@@ -1,0 +1,10 @@
+TimeStamp,Realm Name,Inbound Active Sessions,Inbound Session Rate,Outbound Active Sessions,Outbound Session Rate,Inbound Sessions Admitted,Inbound Sessions Not Admitted,Inbound Concurrent Sessions High,Inbound Average Session Rate,Outbound Sessions Admitted,Outbound Sessions Not Admitted,Outbound Concurrent Sessions High,Outbound Average Sessions Rate,Max Burst Rate,Total Seizures,Total Answered Sessions,Answer/Seizure Ratio,Average One-Way Signaling Latency,Maximum One-Way Signaling Latency,Average QoS RFactor,Maximum QoS RFactor,Current QoS Major Exceeded,Total QoS Major Exceeded,Current QoS Critical Exceeded,Total QoS Critical Exceeded
+1224693071,access,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1224693071,acme,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1224693071,core,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1224693371,access,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1224693371,acme,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1224693371,core,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1224693671,access,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1224693671,acme,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1224693671,core,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0

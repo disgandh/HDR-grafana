@@ -1,0 +1,4 @@
+TimeStamp,CPU Utilization,Memory Utilization,Health Score,Redundancy State,Signaling Sessions,Signaling Rate (CPS),CAM Utilization (NAT),Cam Utilization (ARP),I2C Bus State,License Capacity,Current Cached SIP Local Contact Registrations,Current MGCP Public Endpoint Gateway Registrations,Current H323 Number of Registrations
+1224693071,1,14,0,active,0,0,0,0,online,0,0,0,0
+1224693371,2,14,100,active,0,0,0,0,online,0,0,0,0
+1224693671,2,14,100,active,0,0,0,0,online,0,2,0,0
