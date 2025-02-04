@@ -1,7 +1,0 @@
-TimeStamp,Hostname,System Type,Status,Inbound Active Sessions,Inbound Session Rate,Outbound Active Sessions,Outbound Session Rate,Inbound Sessions Admitted,Inbound Sessions Not Admitted,Inbound Concurrent Sessions High,Inbound Average Session Rate,Outbound Sessions Admitted,Outbound Sessions Not Admitted,Outbound Concurrent Sessions High,Outbound Average Sessions Rate,Max Burst Rate,Total Seizures,Total Answered Sessions,Answer/Seizure Ratio,Average One-Way Signaling Latency,Maximum One-Way Signaling Latency
-1224693071,127.0.0.18,sip,inService,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-1224693071,127.0.0.19,sip,inService,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-1224693371,127.0.0.18,sip,inService,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-1224693371,127.0.0.19,sip,inService,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-1224693671,127.0.0.18,sip,inService,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-1224693671,127.0.0.19,sip,inService,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
